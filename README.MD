@@ -1,5 +1,3 @@
-
-
 #Model View Controller
 Model View Controller architecture is a common design pattern used to organize code and separate concerns. The MVC pattern helps in achieving a clean and modular codebase, making it easier to maintain and scale your application. <hr>
 
